@@ -90,11 +90,6 @@
                                             <img src="https://modulearning.kr/mailimg/ico_insta@2x.png" alt="Instagram"
                                                 width="26" height="26" style="border:0;">
                                         </a>
-                                        <a href="https://facebook.com" target="_blank"
-                                            style="display:inline-block; width:26px; height:26px;">
-                                            <img src="https://modulearning.kr/mailimg/ico_facebook@2x.png"
-                                                alt="Facebook" width="26" height="26" style="border:0;">
-                                        </a>
                                         <a href="https://m.blog.naver.com/modulearning" target="_blank"
                                             style="display:inline-block; width:26px; height:26px;">
                                             <img src="https://modulearning.kr/mailimg/ico_blog@2x.png" alt="Blog"
@@ -196,11 +191,6 @@
                                             style="display:inline-block; width:26px; height:26px;">
                                             <img src="https://modulearning.kr/mailimg/ico_insta@2x.png" alt="Instagram"
                                                 width="26" height="26" style="border:0;">
-                                        </a>
-                                        <a href="https://facebook.com" target="_blank"
-                                            style="display:inline-block; width:26px; height:26px;">
-                                            <img src="https://modulearning.kr/mailimg/ico_facebook@2x.png"
-                                                alt="Facebook" width="26" height="26" style="border:0;">
                                         </a>
                                         <a href="https://m.blog.naver.com/modulearning" target="_blank"
                                             style="display:inline-block; width:26px; height:26px;">
@@ -304,11 +294,6 @@
                                             <img src="https://modulearning.kr/mailimg/ico_insta@2x.png" alt="Instagram"
                                                 width="26" height="26" style="border:0;">
                                         </a>
-                                        <a href="https://facebook.com" target="_blank"
-                                            style="display:inline-block; width:26px; height:26px;">
-                                            <img src="https://modulearning.kr/mailimg/ico_facebook@2x.png"
-                                                alt="Facebook" width="26" height="26" style="border:0;">
-                                        </a>
                                         <a href="https://m.blog.naver.com/modulearning" target="_blank"
                                             style="display:inline-block; width:26px; height:26px;">
                                             <img src="https://modulearning.kr/mailimg/ico_blog@2x.png" alt="Blog"
@@ -410,11 +395,6 @@
                                             style="display:inline-block; width:26px; height:26px;">
                                             <img src="https://modulearning.kr/mailimg/ico_insta@2x.png" alt="Instagram"
                                                 width="26" height="26" style="border:0;">
-                                        </a>
-                                        <a href="https://facebook.com" target="_blank"
-                                            style="display:inline-block; width:26px; height:26px;">
-                                            <img src="https://modulearning.kr/mailimg/ico_facebook@2x.png"
-                                                alt="Facebook" width="26" height="26" style="border:0;">
                                         </a>
                                         <a href="https://m.blog.naver.com/modulearning" target="_blank"
                                             style="display:inline-block; width:26px; height:26px;">
